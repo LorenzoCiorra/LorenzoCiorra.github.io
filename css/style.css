@@ -52,6 +52,7 @@ body {
     color: white;
     cursor: pointer;
     transition: 0.4s;
+    transform: scale(1.2);
 }
 
 
